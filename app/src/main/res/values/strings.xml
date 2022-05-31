@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVC_Pattern Example</string>
+    <string name="mvc_architecture_pattern">MVC Architecture Pattern</string>
+</resources>
